@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkMachiness
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python based projects
+- 💞️ I’m looking to collaborate on python_based projects
 - 📫 How to reach me Farshadsanei237@yahoo.com
 
 <!---
